@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Sell & Delivery Letter Management System",
+  "description": "Modular Admin Panel & Delivery Letter System for Showrooms with client management, dynamic settings, vehicle particulars form, and high-fidelity 2-page print layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
